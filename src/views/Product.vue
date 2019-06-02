@@ -15,9 +15,6 @@ export default {
   components: {
     TestComponent
   }
-}
+};
 </script>
 
-<style>
-
-</style>
